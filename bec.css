@@ -1,0 +1,61 @@
+body {
+  font-family: 'Sanchez', serif;
+}
+
+.blurb h2 {
+  color: #2C3A47;
+  font-size: 2.5rem;
+  font-weight: 100;
+}
+
+.blurb p {
+  color: #2C3A47;
+  font-size: 1.25rem;
+  font-weight: 100;
+  line-height: 2;
+}
+
+.content {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#mainnavbar {
+  font-size: 1.2rem;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.navbar.scrolled {
+  transition: 500ms;
+  background: #d2dae2;
+}
+
+#mainnavbar .nav-link {
+  color: #2C3A47;
+}
+
+#mainnavbar .nav-link:hover {
+  color: #ff3f34;
+}
+
+#mainnavbar .navbar-brand {
+  color: #2C3A47;
+  font-size: 1.4rem;
+}
+
+#footer {
+  position: relative !important;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #d2dae2;
+  font-size: 1rem;
+}
+
+#footer a {
+  color: #ff3f34;
+}
+
+#formFill {
+  font-size: 1.2rem;
+}
