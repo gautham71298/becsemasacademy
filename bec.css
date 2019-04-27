@@ -47,7 +47,7 @@ body {
 #footer {
   position: relative !important;
   padding-top: 20px;
-  padding-bottom: 20px;
+  /* padding-bottom: 20px; */
   background-color: #d2dae2;
   font-size: 1rem;
 }
