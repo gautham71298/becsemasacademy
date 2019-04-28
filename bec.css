@@ -5,13 +5,11 @@ body {
 }
 
 .blurb h2 {
-  /* color: #2C3A47; */
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   font-weight: 100;
 }
 
 .blurb p {
-  /* color: #2C3A47; */
   font-size: 1.25rem;
   font-weight: 100;
   line-height: 2;
@@ -23,15 +21,19 @@ body {
 }
 
 #mainnavbar {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: 100;
   font-style: normal;
   background: #1a1a1d;
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5),0px 8px 10px rgba(0,0,0,0.1);
+}
+
+.color-toggle{
+  background-color: #4e4e50;
 }
 
 .navbar.scrolled {
   transition: 500ms;
-  /* background: #4e4e50; */
 }
 
 #mainnavbar .nav-link {
@@ -44,19 +46,28 @@ body {
 
 #mainnavbar .navbar-brand {
   color: #c3073f;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
+  padding-left: 10px;
 }
 
 #footer {
   position: relative !important;
   padding-top: 20px;
-  /* background-color: #4e4e50; */
+  padding-bottom: 20px;
   font-size: 1rem;
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5),0px 8px 10px rgba(0,0,0,0.1);
+}
+
+.line-colorhr {
+  background-color: #c3073f;
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5),0px 8px 10px rgba(0,0,0,0.1);
   
 }
+
 #footer .colorhr{
   background-color: #c3073f;
 }
+
 #footer h6{
   color: #c3073f;
 }
@@ -64,13 +75,34 @@ body {
 #footer a {
   color: #c3073f;
 }
+
 #footer a:hover{
   color: #ffffff;
 }
+
 #formFill {
   font-size: 1.2rem;
 }
 
-.headhighlight{
+.main-head h2 {
+  padding-top: 25px;
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5),0px 8px 10px rgba(0,0,0,0.1);
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #807fff;
+
+}
+
+.main-head p {
+  font-size: 1.2rem;
+}
+
+.main-headhighlight {
+  color: #807fff;
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5),0px 8px 10px rgba(0,0,0,0.1);
+}
+
+.headhighlight {
   color: #c3073f;
+  text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5),0px 8px 10px rgba(0,0,0,0.2);
 }
