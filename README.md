@@ -1,6 +1,6 @@
 # becsemasacademy
 
-This is an Educational Website.
+This is an Educational Website(Prototype)
 
     BRILLIANCE EDUCATION CENTER
     SEMAS ACADEMY
