@@ -6,3 +6,5 @@ This is an Educational Website.
     SEMAS ACADEMY
     T.V.Malai Dist Franchisee
     Tamilnadu, India
+
+https://gauthamgauda.github.io/becsemasacademy/
