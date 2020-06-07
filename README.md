@@ -7,4 +7,4 @@ This is an Educational Website(Prototype)
     T.V.Malai Dist Franchisee
     Tamilnadu, India
 
-https://gauthamgauda.github.io/becsemasacademy/
+https://gautham71298.github.io/becsemasacademy/
